@@ -1,0 +1,47 @@
+@font-face{
+  src: url(fonts/zh-cn-webfont.ttf);
+  font-family: Genshin;
+}
+
+h1 {
+  color:#2198BD;
+  background-color:#C6D7FE;
+  border:10px solid #8BAEFD;
+  padding:20px;
+  font-family: Genshin;
+  font-weight: 500;
+}
+
+#highlight{
+  color:#834FEB;
+  font-size: 30px;
+  font-family: Genshin;
+  font-weight: 10;
+}
+
+p{
+  font-family: Genshin;
+  font-weight: 100;
+  font-size: 20px;
+  margin:16px;
+  color:#046CA0;
+}
+
+h2{
+  color:#2198BD;
+  font-family: Genshin;
+  font-weight: 500;
+  background-color:#C6D7FE;
+  padding:10px;
+  border:6px solid #8BAEFD;
+}
+
+body{
+  background-color:#C3FDF7;
+}
+
+img{
+  border: 12px solid #2198BD;
+  margin: 10px;
+  margin-left: 20px;
+}
